@@ -8,3 +8,13 @@ header {
     background-color: #848fa5;
     padding-left: 15px;
 }
+
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+img {
+    width: 40%;
+}
