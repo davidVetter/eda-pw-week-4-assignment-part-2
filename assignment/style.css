@@ -14,7 +14,24 @@ div {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin: 5px 20%;
+    background-color: #2d2d2a;
 }
+
+h2 {
+    background-color: #e5dcc5;
+    color: #2d2d2a;
+    width: 100%;
+    text-align: center;
+}
+
 img {
     width: 40%;
+}
+
+h3 {
+    background-color: #4c4c47;
+    color: #c14953;
+    width: 100%;
+    text-align: center;
 }
