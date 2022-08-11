@@ -1,4 +1,10 @@
 body {
     background-color: #c14953;
     color: #4c4c47;
+    margin: 10% 0;
+}
+
+header {
+    background-color: #848fa5;
+    padding-left: 15px;
 }
