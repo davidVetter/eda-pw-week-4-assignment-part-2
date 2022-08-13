@@ -13,8 +13,9 @@ header {
     position: absolute;
     right: 0;
     top:0;
-    width: 7%;
-    height: 5%;
+    width: auto;
+    height: auto;
+    padding: 10px 10px;
     background-color: #503d3f;
     color: #52ffb8;
     border: none;

@@ -8,22 +8,26 @@ header {
     color: #175676;
     padding-left: 15px;
 }
+
 #cssBtn { 
     position: absolute;
     right: 0;
     top:0;
-    width: 7%;
-    height: 5%;
+    width: auto;
+    height: auto;
+    padding: 10px 10px;
     background-color: #4ba3c3;
     color: #d62839;
     border: none;
     font-family: monaco, Garamond, Optima, sans-serif;
     font-weight: bolder;
 }
+
 h1 {
     font-size: 4vw;
     font-family: Optima, Garamond, serif;
 }
+
 header > p {
     font-size: 1.5vw;
 }
@@ -37,6 +41,7 @@ h2 {
     font-family: Copperplate, serif;
     
 }
+
 h2:hover {
     transform: scaleX(-1) scaleY(-1);
 }
