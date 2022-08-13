@@ -9,13 +9,22 @@ header {
     padding-left: 15px;
 }
 
-header:hover {
-    text-align: right;
-    padding-right: 15px;
+#cssBtn { 
+    position: absolute;
+    right: 0;
+    top:0;
+    width: 7%;
+    height: 5%;
+    background-color: #503d3f;
+    color: #52ffb8;
+    border: none;
+    font-family: monaco, Garamond, Optima, sans-serif;
+    font-weight: bolder;
 }
 
 h1 {
     font-size: 4vw;
+    font-family: Optima, Garamond, serif;
 }
 header > p {
     font-size: 1.5vw;
@@ -26,7 +35,8 @@ h2 {
     color: #503d3f;
     width: 100%;
     text-align: center;
-    font-size: 2.5vw;
+    font-size: 4vw;
+    font-family: Copperplate, serif;
     
 }
 h2:hover {
@@ -58,6 +68,7 @@ h3 {
     border-top-width: 5px;
     border-top-color: #4dfff3;
     font-size: 2vw;
+    font-family: Geneva;
 }
 
 h3:hover {
