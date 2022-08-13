@@ -23,6 +23,11 @@ header {
     font-weight: bolder;
 }
 
+#cssBtn:hover {
+    background-color: #4ba3c3;
+    color: #d62839;
+}
+
 h1 {
     font-size: 4vw;
     font-family: Optima, Garamond, serif;
